@@ -1,0 +1,6 @@
+dependencies:
+- name: redis-operator
+  repository: file://../redis-operator
+  version: 0.0.0
+digest: sha256:e5f11b538d32cabed5192b3ee7e17aac80d89aebc0ef1d052b66565bfdc9ea80
+generated: "2020-07-02T10:44:31.5407252+05:30"
